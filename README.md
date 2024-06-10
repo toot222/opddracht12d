@@ -1,5 +1,5 @@
 # opddracht12d
-lol
+lol LOLTEST
 lol2
 lol3
 Lol4
