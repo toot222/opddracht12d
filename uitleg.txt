@@ -1,1 +1,5 @@
-1. klik merge knop
+1. klik button resoleve in merge editor
+2. klik accept bij de 2 origin/main en main om ze bijde te accepteren
+3. klik complete merge
+4. klik commit of type het
+5. synch knop of type het
